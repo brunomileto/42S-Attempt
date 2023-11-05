@@ -1,0 +1,8 @@
+- [Python: Basics and Applications](https://stepik.org/course/512/promo#toc)
+- [Basics of Statistics](https://stepik.org/course/76/promo#toc)
+- [Linear Algebra](https://stepik.org/course/2461/promo#toc)
+- [Introduction to Calculus](https://stepik.org/course/95/promo#toc)
+- [Discrete Structures](https://stepik.org/course/83/promo#toc)
+- [In-person course `DMIA` not for beginners](https://vk.com/data_mining_in_action)
+- [Data Analysis Competition on `kaggle`](https://www.kaggle.com/)
+[]()
